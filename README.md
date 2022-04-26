@@ -17,11 +17,11 @@ When a user visits our Home Page, they will see the following two options:
 2.	Log in as an NSTI administrator/Industry Administrator.
 
 If the user selects "Login as alumni," they will be redirected to a page where they will be asked to "Sign in" with their username and password, and if they do not have an account, they can create one by filling out the following information:
-●	Personal data – name, email address, phone number, gender
-●	College-related information, such as the name of the institute, the year of graduation, the course name, the branch name, the college registration number/roll number, and so on.
-●	 Login ID and Password
-●	Job profile- the name of the company for which they work, the date they started, and so on.
-●	Work Experience
+1.	Personal data – name, email address, phone number, gender
+2.	College-related information, such as the name of the institute, the year of graduation, the course name, the branch name, the college registration number/roll number, and so on.
+1.	 Login ID and Password
+2.	Job profile- the name of the company for which they work, the date they started, and so on.
+3.	Work Experience
 
 Their information will be saved in our database. This information will then be forwarded to the Ministry of Skill Development and Entrepreneurship (MSDE) for verification. This could take up to two days. When this is completed, the user will be notified via email.
 
@@ -30,10 +30,10 @@ If the user selects the second option, "Login as NSTI administrator/ Industry Ad
 
 # TECHNOLOGY USED:
 
-●	Frontend- For this we will be using HTML, CSS, and ReactJs 
-●	Backend- We will be using PHP and NodeJs
-●	Realtime Database- For storing the data we will be using Firebase
-●	Relational Database- MongoDB/SQL
+1)	Frontend- For this we will be using HTML, CSS, and ReactJs 
+2)	Backend- We will be using PHP and NodeJs
+3)	Realtime Database- For storing the data we will be using Firebase
+4)	Relational Database- MongoDB/SQL
 
 
 # NOVELTY
@@ -43,26 +43,22 @@ The “Alumni Hub” portal is a unique collaborative website, which will connec
 # FEATURES
 
 After Login, the alumni will be redirected to the Activity Dashboard, where he can track his activities and use the following features :
-●	Group Chat :
-         Today, online chatting is much more than a means to maintain personal connections. Online group chats offer a platform to share, collaborate, discuss, and innovate. By including a group chat feature in our website, there will be no dependence on third-party platforms. Users can communicate with each other, share opinions, and discuss products and services of common interest. As a result, there will be a significant boost in engagement and user retention.
+1. Group Chat : Today, online chatting is much more than a means to maintain personal connections. Online group chats offer a platform to share, collaborate, discuss, and innovate. By including a group chat feature in our website, there will be no dependence on third-party platforms. Users can communicate with each other, share opinions, and discuss products and services of common interest. As a result, there will be a significant boost in engagement and user retention.
 
-●	Posts and Announcements :
-         In this section users can share news about their recent award, achievements or certification , promote an upcoming event or webinar, highlight a recently released product/technology or Feature a recent portfolio or case study addition.
+2. Posts and Announcements : In this section users can share news about their recent award, achievements or certification , promote an upcoming event or webinar, highlight a recently released product/technology or Feature a recent portfolio or case study addition.
 
-●	Search for jobs : 
-         This section serves as the modern equivalent of classified ads by compiling and listing available telecommuter and local openings. It will be one of the most efficient ways to search for and apply to dozens of opportunities for users. Users can search by job title and location, salary range, date posted, and experience level. Also, it can help employers pace up their hiring process. It would be easier for recruiters or hiring managers to verify job applications online than physically scan printed resumes. 
+3. Search for jobs : This section serves as the modern equivalent of classified ads by compiling and listing available telecommuter and local openings. It will be one of the most efficient ways to search for and apply to dozens of opportunities for users. Users can search by job title and location, salary range, date posted, and experience level. Also, it can help employers pace up their hiring process. It would be easier for recruiters or hiring managers to verify job applications online than physically scan printed resumes. 
 
-●	Event Calendar:
-  	A calendar provides an easy way to digest information and discover events they want to attend. A calendar opens up a new world of valuable metrics and insight, from ticket data to your user’s email addresses and contact information. We will even integrate our calendar with email marketing efforts and automate email announcements, registration reminders, and follow-ups. 
+4. Event Calendar: A calendar provides an easy way to digest information and discover events they want to attend. A calendar opens up a new world of valuable metrics and insight, from ticket data to your user’s email addresses and contact information. We will even integrate our calendar with email marketing efforts and automate email announcements, registration reminders, and follow-ups. 
 
 Whereas once NSTI admin or any Industry Administrator Logins to the portal, they will be able to access and use the following features :
-●	Search Alumni Profiles:
+1. Search Alumni Profiles:
         allow the NSTIs and various Directorate/Industries to search details based on criteria such as year, trade, institute working experience etc .
 
-●	Send emails and messages to Alumni Members:
+2. Send emails and messages to Alumni Members:
         allow the NSTIs and various Directorate/Industries to send messages and emails to alumni members regarding various upcoming events and opportunities or regarding collaborations.
 
-●	Post About Upcoming Events and Opportunities:
+3. Post About Upcoming Events and Opportunities:
         allow the NSTIs and various Directorate/Industries to post about various job openings ,webinars or other opportunities and Events.
 
 
